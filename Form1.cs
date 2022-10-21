@@ -163,19 +163,19 @@ namespace GraficulFunctiei
             }
             switch(Convert.ToString(comboBox1.Text))
             {
-                case "Negru": 
+                case "Black": 
                     p.Color = Color.Black;
                     break;
-                case "Albastru":
+                case "Blue":
                     p.Color = Color.Blue;
                     break;
-                case "Roşu":
+                case "Red":
                     p.Color = Color.Red;
                     break;
-                case "Verde":
+                case "Green":
                     p.Color = Color.Green;
                     break;
-                case "Galben":
+                case "Yellow":
                     p.Color = Color.Yellow;
                     break;
             }

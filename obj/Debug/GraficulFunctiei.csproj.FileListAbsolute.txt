@@ -32,3 +32,10 @@ C:\Users\Rubenel\Desktop\GraficulFunctiei2\obj\Debug\GraficulFunctiei.csproj.Gen
 C:\Users\Rubenel\Desktop\GraficulFunctiei2\obj\Debug\GraficulFunctiei.csproj.CoreCompileInputs.cache
 C:\Users\Rubenel\Desktop\GraficulFunctiei2\obj\Debug\GraficulFunctiei.exe
 C:\Users\Rubenel\Desktop\GraficulFunctiei2\obj\Debug\GraficulFunctiei.pdb
+C:\Users\Rubenel\Desktop\GraficulFunctiei2\bin\Debug\GraficulFunctiei.exe.config
+C:\Users\Rubenel\Desktop\GraficulFunctiei2\bin\Debug\GraficulFunctiei.exe.manifest
+C:\Users\Rubenel\Desktop\GraficulFunctiei2\bin\Debug\GraficulFunctiei.application
+C:\Users\Rubenel\Desktop\GraficulFunctiei2\bin\Debug\GraficulFunctiei.exe
+C:\Users\Rubenel\Desktop\GraficulFunctiei2\bin\Debug\GraficulFunctiei.pdb
+C:\Users\Rubenel\Desktop\GraficulFunctiei2\obj\Debug\GraficulFunctiei.exe.manifest
+C:\Users\Rubenel\Desktop\GraficulFunctiei2\obj\Debug\GraficulFunctiei.application

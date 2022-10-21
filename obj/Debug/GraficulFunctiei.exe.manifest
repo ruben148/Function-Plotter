@@ -42,24 +42,24 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GraficulFunctiei.exe" size="39408">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GraficulFunctiei.exe" size="39936">
       <assemblyIdentity name="GraficulFunctiei" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>A2m2/fNseDDgRfBDOydEnxcGoG6qvplPs9DVvO6UH4E=</dsig:DigestValue>
+        <dsig:DigestValue>Okx/rSlL/kjPxD1w2sZmcNkaRQNwp0V8Mfkd8RSMrRU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="GraficulFunctiei.exe.config" size="189">
+  <file name="GraficulFunctiei.exe.config" size="184">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+      <dsig:DigestValue>FihlZtVNgcNyH37Pf0Jtll3jZOm+L55ijXNjtoS2/mo=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
