@@ -1,0 +1,34 @@
+C:\Users\Rubenel\Desktop\GraficulFunctiei\bin\Debug\GraficulFunctiei.exe.config
+C:\Users\Rubenel\Desktop\GraficulFunctiei\bin\Debug\GraficulFunctiei.exe
+C:\Users\Rubenel\Desktop\GraficulFunctiei\bin\Debug\GraficulFunctiei.pdb
+C:\Users\Rubenel\Desktop\GraficulFunctiei\obj\Debug\GraficulFunctiei.csprojAssemblyReference.cache
+C:\Users\Rubenel\Desktop\GraficulFunctiei\obj\Debug\GraficulFunctiei.Form1.resources
+C:\Users\Rubenel\Desktop\GraficulFunctiei\obj\Debug\GraficulFunctiei.Properties.Resources.resources
+C:\Users\Rubenel\Desktop\GraficulFunctiei\obj\Debug\GraficulFunctiei.csproj.GenerateResource.cache
+C:\Users\Rubenel\Desktop\GraficulFunctiei\obj\Debug\GraficulFunctiei.exe
+C:\Users\Rubenel\Desktop\GraficulFunctiei\obj\Debug\GraficulFunctiei.pdb
+C:\Users\Rubenel\Desktop\GraficulFunctiei\bin\Debug\GraficulFunctiei.exe.manifest
+C:\Users\Rubenel\Desktop\GraficulFunctiei\bin\Debug\GraficulFunctiei.application
+C:\Users\Rubenel\Desktop\GraficulFunctiei\obj\Debug\GraficulFunctiei.exe.manifest
+C:\Users\Rubenel\Desktop\GraficulFunctiei\obj\Debug\GraficulFunctiei.application
+C:\Users\Rubenel\Desktop\Graficul Functiei\GraficulFunctiei\bin\Debug\GraficulFunctiei.exe.config
+C:\Users\Rubenel\Desktop\Graficul Functiei\GraficulFunctiei\bin\Debug\GraficulFunctiei.exe.manifest
+C:\Users\Rubenel\Desktop\Graficul Functiei\GraficulFunctiei\bin\Debug\GraficulFunctiei.application
+C:\Users\Rubenel\Desktop\Graficul Functiei\GraficulFunctiei\bin\Debug\GraficulFunctiei.exe
+C:\Users\Rubenel\Desktop\Graficul Functiei\GraficulFunctiei\bin\Debug\GraficulFunctiei.pdb
+C:\Users\Rubenel\Desktop\Graficul Functiei\GraficulFunctiei\obj\Debug\GraficulFunctiei.csprojAssemblyReference.cache
+C:\Users\Rubenel\Desktop\Graficul Functiei\GraficulFunctiei\obj\Debug\GraficulFunctiei.Form1.resources
+C:\Users\Rubenel\Desktop\Graficul Functiei\GraficulFunctiei\obj\Debug\GraficulFunctiei.Properties.Resources.resources
+C:\Users\Rubenel\Desktop\Graficul Functiei\GraficulFunctiei\obj\Debug\GraficulFunctiei.csproj.GenerateResource.cache
+C:\Users\Rubenel\Desktop\Graficul Functiei\GraficulFunctiei\obj\Debug\GraficulFunctiei.exe.manifest
+C:\Users\Rubenel\Desktop\Graficul Functiei\GraficulFunctiei\obj\Debug\GraficulFunctiei.application
+C:\Users\Rubenel\Desktop\Graficul Functiei\GraficulFunctiei\obj\Debug\GraficulFunctiei.exe
+C:\Users\Rubenel\Desktop\Graficul Functiei\GraficulFunctiei\obj\Debug\GraficulFunctiei.pdb
+C:\Users\Rubenel\Desktop\GraficulFunctiei2\obj\Debug\GraficulFunctiei.csproj.AssemblyReference.cache
+C:\Users\Rubenel\Desktop\GraficulFunctiei2\obj\Debug\GraficulFunctiei.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rubenel\Desktop\GraficulFunctiei2\obj\Debug\GraficulFunctiei.Form1.resources
+C:\Users\Rubenel\Desktop\GraficulFunctiei2\obj\Debug\GraficulFunctiei.Properties.Resources.resources
+C:\Users\Rubenel\Desktop\GraficulFunctiei2\obj\Debug\GraficulFunctiei.csproj.GenerateResource.cache
+C:\Users\Rubenel\Desktop\GraficulFunctiei2\obj\Debug\GraficulFunctiei.csproj.CoreCompileInputs.cache
+C:\Users\Rubenel\Desktop\GraficulFunctiei2\obj\Debug\GraficulFunctiei.exe
+C:\Users\Rubenel\Desktop\GraficulFunctiei2\obj\Debug\GraficulFunctiei.pdb
